@@ -55,3 +55,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+
+output_training.txt
+training_data_core.txt
